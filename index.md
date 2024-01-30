@@ -6,3 +6,10 @@
 ###### H6 Heading
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+c=10
+b=10
+print(b+c)
+
+```
