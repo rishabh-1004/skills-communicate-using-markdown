@@ -13,3 +13,8 @@ b=10
 print(b+c)
 
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
